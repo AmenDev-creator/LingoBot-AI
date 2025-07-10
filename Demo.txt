@@ -1,0 +1,41 @@
+To use the LingoBot AI chatbot, follow these steps:
+Visit this link : https://lingobot-285c4.web.app/
+
+Login:
+Enter email address = lingobot@gmail.com
+
+Enter password = LingoBot
+
+Click the "Login" button.
+
+If successful, you will be redirected to the bot page, which is the main chat interface. If you are already logged in, you will be automatically redirected to chat box.
+  
+  Interact with the Bot :
+
+Send a Message (Text Input):
+
+Type your question or message into the "Type or use mic..." input field.
+
+Press Enter on your keyboard or click the "Send" button.
+
+Your message will appear on the right side of the chat box, and the bot's reply will appear on the left.
+
+Send a Message (Voice Input):
+
+Click the "🎤" (microphone) button.
+
+Speak your message clearly.
+
+The bot will convert your speech to text and send it as a message, then respond.
+
+Toggle Sound:
+
+Click the "🔊 Sound On" or "🔇 Sound Off" button to enable or disable the bot's speech output.
+
+Clear Chat:
+
+Click the "🗑️ Clear" button to clear all messages from the chat box.
+
+Logout:
+
+Click the "Logout" button to sign out of your account. This will redirect you back to the login page.
