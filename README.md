@@ -1,7 +1,7 @@
 # LingoBot-AI
 LingoBot AI is an intelligent chatbot designed to be a helpful assistant across various domains, including languages, programming, and general knowledge 🧠. It leverages the power of the Gemini 1.5 Flash model through the OpenRouter API to provide smart and relevant responses.
 
-
+[!screenshot](/screenshot)
 
 # Key features of LingoBot AI include:
 
